@@ -4,11 +4,9 @@ Hardworking and ambitious final year Business Analytics student graduating in Sp
 process efficiency using data analysis, pattern recognition, and predictive modeling.
 
 ### Contact:
-jophyjoy1994@gmail.com 
-(902) 537-1156 
-Halifax, Canada 
-linkedin.com/in/jophy-joy-2012b4a1
-https://github.com/jophyjoy28
+Email: jophyjoy1994@gmail.com
+Location: Halifax, Canada 
+Linkedin: linkedin.com/in/jophy-joy-2012b4a1
 
 
 ```markdown
