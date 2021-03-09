@@ -1,8 +1,7 @@
 # Python Projects
-## 
 ### Contact:
-#### Email: jophyjoy1994@gmail.com 
-#### Linkedin: linkedin.com/in/jophy-joy-2012b4a1
+**Email: jophyjoy1994@gmail.com** 
+**Linkedin: linkedin.com/in/jophy-joy-2012b4a1**
 
 
 ```markdown
