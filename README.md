@@ -1,8 +1,5 @@
 # Jophy Joy
 ## Business Analytics Student
-Hardworking and ambitious final year Business Analytics student graduating in Spring 2021, looking for opportunities to improvise
-process efficiency using data analysis, pattern recognition, and predictive modeling.
-
 ### Contact:
 #### Email: jophyjoy1994@gmail.com 
 #### Location: Halifax, Canada 
