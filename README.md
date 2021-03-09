@@ -1,12 +1,15 @@
-## Jophy Joy
+# Jophy Joy
+## Business Analytics Student
+Hardworking and ambitious final year Business Analytics student graduating in Spring 2021, looking for opportunities to improvise
+process efficiency using data analysis, pattern recognition, and predictive modeling.
 
-You can use the [editor on GitHub](https://github.com/jophyjoy28/python_projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Contact:
+jophyjoy1994@gmail.com 
+(902) 537-1156 
+Halifax, Canada 
+linkedin.com/in/jophy-joy-2012b4a1
+https://github.com/jophyjoy28
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Business Analytics Student
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
