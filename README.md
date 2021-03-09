@@ -1,8 +1,7 @@
-# Jophy Joy
-## Business Analytics Student
+# Python Projects
+## 
 ### Contact:
 #### Email: jophyjoy1994@gmail.com 
-#### Location: Halifax, Canada 
 #### Linkedin: linkedin.com/in/jophy-joy-2012b4a1
 
 
